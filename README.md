@@ -1,3 +1,3 @@
 # RS-data-processing
 
-Codes for satellite data processing and analysis
+codes for satellite data processing and analysis
