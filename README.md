@@ -1,4 +1,4 @@
-# Geodata-processing
+# Geodata processing
 
 codes for Geo data processing and analysis
 
